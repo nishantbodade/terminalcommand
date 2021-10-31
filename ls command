@@ -1,0 +1,48 @@
+synatx:
+  ls [options] [directorys/folders]
+
+
+
+  ls : will show all content in dir
+
+  ~ :tilde is use home directory /home/nishant/   use can replace this string with ~
+
+  ls [folder/dir name]  : will show all the content in providec dir. case snsitive names
+  ex.  ls Documents/
+
+  pwd :will show u present working directory
+  ex. pwd
+
+  clear :will clear the termianl hostroty
+  ex. clear
+
+  ls ~ (tilde): will show u home directory content
+  ex. ls ~
+      ls /home/nishant/
+
+  ls .. : will show u one step back content .means one step back direcotrycontent
+  ls ../..  :will show u two step back folder content
+
+  ---------------------------options demo-------------------------------
+  
+  ls -l  :will show u long forlmate content
+
+  ls -a :will show u hidden files also
+
+  ls -al : u can combine options .this option will show u long as well as hidden content
+  ls -la same as above u can use both the way to combime options
+
+  ls -lS : capital S will sort the content on size. Asscending to dessecending
+
+  ls documents/*.txt  : wild card will sort data on extension. this will sort onlys text files present in documents
+  ls Documents/*.* :will sort all extention files
+
+  ----------to write ls content to files-------------
+  ls -l > out.txt  :this command will write ls command content in out.txt files (>) angule symbol
+
+  ls -d */: will only list all the directorys
+  ex. ls -d */ :will show u only directorys
+
+  ----------------------------------MAN ls------------------------------
+  man is like directory which show all info for commands
+  man ls :ls command info
