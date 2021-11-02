@@ -1,0 +1,11 @@
+synatx:
+  cat [options]  [files]
+
+--------------------------------------------------------------------------
+cat : to perform ouputinput msg ,press ctr+d to extension
+cat filename.txt :display file content
+cat file1 file2 : display both the files content,ombine then and display
+cat -b filename  :will add line number to non blank line
+cat -n filename  :will add line number to all line
+cat -s filename  :will cpmpress blanks  line number
+cat -$ filename  :end of line
