@@ -1,0 +1,17 @@
+synatx:
+  cd  [directorys/folders]
+
+--------------------------------------------------------------------------
+
+cd   :current homedirectory
+cd /  :root directory
+cd .. : one stepback
+cd Documents  : to documents folder
+
+----------------------------------------------------------------------------
+how to cd to folders having spaces like "my books"
+
+cd my\ books   :oneway
+cd "my books"  : second way
+cd 'my books'  :3rdway
+
