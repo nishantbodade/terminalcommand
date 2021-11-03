@@ -1,0 +1,9 @@
+synatx:
+  mkdir  [directorys/folders]
+
+--------------------------------------------------------------------------
+
+mkdir directoryname  :create directory
+mkdir -p new/img  : will create subdirectorys  p stamd for parent.if ex  :create directory
+mkdir -p new/{list of directorys seperated by ,}}  : will create subdirectorys  p stamd for parent.if ex  :create directory
+mkdir -p new/{a,b,c}
