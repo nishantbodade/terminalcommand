@@ -1,0 +1,12 @@
+synatx:
+  cd  [options] [source] [destination]
+
+--------------------------------------------------------------------------
+
+cp file1 file2  : will copy content of file1 to file 2 ,if not exist ,will crate file2,if exist it will override
+cp file1 -i home/  :will copy to home but will ask before override. i stamd for interactive 
+cp file1 file2 dir  : will copy  file1 , file 2 to dir. ,if not exist ,will crate file2 multiple files can be copy
+
+cp file1 home/   :will copt file to home directoiry
+cp file file2 .  :will copy files to current directory . (.)means current directory
+cp -R dir dir 3   : is recursive ,copy directorys here
