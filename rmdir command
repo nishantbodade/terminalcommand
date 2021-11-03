@@ -1,0 +1,11 @@
+synatx:
+  rmdir  [option] [dir]
+
+--------------------------------------------------------------------------
+rmdir directoryname
+
+ls -R :will show directory structure
+
+rmdir -p /a/b/c  :will rmobve all directory structre u provide .withou -p i will only delete c 
+rmdir -pv /a/b/c  : will show u extra info how it working ,v call vobo
+rm -rv a/b/c :will remove everything with parent directory.,-r is recursive v for more info
