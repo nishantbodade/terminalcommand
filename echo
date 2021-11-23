@@ -1,0 +1,11 @@
+synatx:
+  echo "text"
+
+  it will print text after echo
+  use will be imp in bash script
+
+  ---------------------------------------
+  echo hello nishant  :print
+  echo "hello $var"  :also print 
+  echo $myvar   :print variable
+  echo -e "seom \t mmmm "    "escape tab
