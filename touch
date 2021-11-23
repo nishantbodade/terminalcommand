@@ -1,0 +1,9 @@
+synatx:
+  touch [options]  [files]
+
+---------------------------------------------
+  easiest way to create new files
+  use to change time stamp of files
+  ------------------------------------------------
+  touch filename   :will create new  file. multiple file can be created (touch x y z)
+  touch filename :if exist it will update file and time with current time
