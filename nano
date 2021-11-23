@@ -1,0 +1,7 @@
+synatx:
+  nano [options]  [files]
+
+  nano is simple text editor
+
+---------------------------------------------
+nano file.txt
