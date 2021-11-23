@@ -1,0 +1,18 @@
+synatx:
+  less [options]  [files]
+
+  less is use to overcome the cat problem 
+  large file will not display all content in cat ,u cant scroll all content in cat 
+  using less u can naviagte the file content
+
+-------------------------------------
+less filename    :will display the contetnt of file is uwant to go down press down arrow for up up arrow
+                    use space to navigate page by page
+                    for up page use key 'b'
+                    to go to end press capital 'G'
+                    go to top to press '1g'
+                    to serach content in file us ecommand : /searckkey and enter  
+                    to search down to up use command : ?book
+                    to quit press 'q' key
+
+
