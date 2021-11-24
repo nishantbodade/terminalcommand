@@ -1,0 +1,11 @@
+synatx:
+  sudo [options] [commands]
+
+  sudo means super user do
+  allowes super user access
+  will use to install 3rd party software 
+
+---------------------------------------------
+
+sudo mkdir newdir    :will create dir in etc folder which is permission denied
+sudo -s : will logged as super user on terminal
