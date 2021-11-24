@@ -1,0 +1,11 @@
+synatx:
+  kill -[flags] [pid]
+  ----------------------------------------------------------
+  kill use to terminate the process using pid
+
+
+---------------------------------------------
+pidof [processname] :this will give u process PID ex. pidof soffice.bin
+kill 7775  :will kill the prosss
+kill -KILL 4545 :force to kill
+kill -9 4545 : force kill

@@ -8,3 +8,5 @@ cpu usage memory and other stuff
 ----------------------------------
 top  :will show details
 q   :will quit top
+
+ps -ux :will show process ,it is alternte to top
