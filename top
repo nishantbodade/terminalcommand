@@ -1,0 +1,10 @@
+synatx:
+  top [options]  [files]
+
+---------------------------------------------
+top  provide dynamic real time view of system.
+cpu usage memory and other stuff
+
+----------------------------------
+top  :will show details
+q   :will quit top

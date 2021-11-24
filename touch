@@ -7,3 +7,4 @@ synatx:
   ------------------------------------------------
   touch filename   :will create new  file. multiple file can be created (touch x y z)
   touch filename :if exist it will update file and time with current time
+  touch -t [ccyymmddhhmm.ss] file.txt  :will update time 
