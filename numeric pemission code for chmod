@@ -1,0 +1,11 @@
+syntax:
+
+chmod [code [rwx=421]] filename
+
+---------------------------------
+will act as same in chmode.only we will represent code in numeric form
+Read code 4
+Write code 2
+execute code 1
+
+form is RWX 421
