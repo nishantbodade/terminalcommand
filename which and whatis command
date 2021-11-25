@@ -1,0 +1,11 @@
+syntax :
+[which|whatis] [command]
+
+--------------------------------------------
+which command is use to display the path of the command
+what command is use to give short discription of command
+
+-----------------------------------------------
+
+which ls    :will desplya or print the ls command path
+whatis ls
