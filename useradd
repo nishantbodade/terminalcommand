@@ -1,0 +1,12 @@
+syntax :
+sudo useradd [username] -m -s /bin/bash -g users
+
+--------------------------------------------
+-m will create home directory
+-s will create default shell
+-g default user grp
+
+passwd command will use to change or assign the password to root and other users
+ex. sude passwd :will be for rrot
+--------------------------------------
+sudo passwd mark  :will be for other users

@@ -1,0 +1,12 @@
+syntax:
+
+groups
+
+-------------------------------
+will show all the groups and user connected to the groups
+------------------------------
+
+cat /etc/group   :will show all groups and user connected
+groups  :this command lis the groiups u are connected
+usdo groupadd java  :will add java as group
+sudo gpasswd -a username grpname    :will add user to the grp . -a is for add and -d for remove user from grp
