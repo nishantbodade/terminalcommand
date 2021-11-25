@@ -1,0 +1,12 @@
+
+syntax;
+
+watch  [options] [command]
+
+-------------------------
+what command will run script or command on regular time intervel
+
+-------------------------
+
+watch free -m: will run every 2sec
+watch -n 1 free -m : 1sec interval
