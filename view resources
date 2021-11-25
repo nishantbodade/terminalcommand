@@ -1,0 +1,24 @@
+synatx:
+  df  [options] []
+
+  du   [options]
+
+
+
+--------------------------------------------------------------------------
+df is disk space used by file system
+
+du is use to estimate space used by files
+
+free   is use to display free and swap memory in sysytem
+
+
+----------------------------------------------------------------
+
+df :will show u all details of memory by all direcrotys
+dh -h   :will show human readble formate, -h for human readable
+
+du : full file usage data 
+df -h:full file usage data in human readbale form
+du -sh :  -s for summary, will display total disk space
+free -h: human form
