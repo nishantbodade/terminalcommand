@@ -1,0 +1,15 @@
+syntax:
+
+
+
+
+---------------------------------------------------------
+combine commands
+; is use 
+&& is use
+|| is use   ,if first fail then second .or exit
+
+----------------------------------------------------------
+ls ; pwd    :will ls and pwd regardless of fail or success
+ls && pwd  :will ls and pwd  ,if command fail it ewill exit
+ls || pwd:ls excute only
