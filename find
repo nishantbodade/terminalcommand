@@ -1,0 +1,15 @@
+syntax:
+
+find [directorys] -name [filename]
+
+
+---------------------------------------------------------
+find is use to search file in directorys
+
+* will use to match file pattern
+
+----------------------------------------------------------
+find /home/nidhsnt/ one.txt :will list the full path
+find /home/nidhsnt/ one.*   :if u dont know the extention .use *
+find /home/nidhsnt/ *.txt :will show only txt file
+sudo find /home/nidhsnt/ *.txt :will show only txt file with sudo permisions
