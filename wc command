@@ -1,0 +1,10 @@
+syntax:
+
+wc [option] [file]
+
+---------------------------------------------------------
+wc wordcout will print words ,bytes,characters  count
+flags can be use ,for help do man
+
+----------------------------------------------------------
+wc one.txt  :word count
