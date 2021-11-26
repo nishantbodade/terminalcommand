@@ -1,0 +1,19 @@
+syntax:
+
+sudo apt-get [options]
+
+
+
+
+---------------------------------------------------------
+apt-get it is a debian base command
+yum and dnf is for redhat base command
+apt -get is comand line tool which work with apt package  manager
+apt(advance packging tool) 
+use to install and update the packges
+----------------------------------------------------------
+sudo apt-get update    :poackge resynck with remote
+sudo apt-get   install java     :will insatll the software java
+sudo apt-get remove java        :will remove software from system.i will not configuration it will remove software only
+sudo apt-get remove  --purge java :will remove software and configuration
+sudo apt-get autoremove java    :no longer needed packge will removed
