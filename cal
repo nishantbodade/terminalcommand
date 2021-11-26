@@ -1,0 +1,15 @@
+syntax:
+
+cal [flag]
+
+
+---------------------------------------------------------
+cal to display calender 
+
+----------------------------------------------------------
+cal :will disply 
+ncal :disply cal on left
+
+cal 2022: yr cal disply
+cal 2 2020: feb 2020 display
+cal -3:current last and next month
