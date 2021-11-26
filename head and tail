@@ -1,0 +1,16 @@
+syntax:
+
+[head ][tail] [options] [filename]
+
+
+---------------------------------------------------------
+haid will display first 10 line
+tail will dispaly last 10 line
+
+----------------------------------------------------------
+head filename:first 10 line
+tail filename :last 10 line
+
+head -n3 filename: first 3 line , -n with number of lines 3
+tail -n5 filename
+tail -f filename  :will wait for last ten line ,if file change the output will change , -f fOR follow
