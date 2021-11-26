@@ -1,0 +1,11 @@
+syntax:
+
+date [flag] [options]
+
+
+---------------------------------------------------------
+date is use to change the system date
+----------------------------------------------------------
+dates formates see in man
+
+date +%man:will show month
