@@ -1,0 +1,13 @@
+Syntax :
+
+tar [flags] [name of tar file u want to create] [name of folder to compress]
+tar -cvf    :c for create,vobos for progress,f  allow u to specifies the filename
+
+---------------------------------
+tar archiev use ,aintain modified create zip files, its work like zip format
+-------------------------------
+
+tar -cvf test.txt test      :will create tar with test.tar name
+tar -xvf test.tar           :will extract tar. x for extract
+tar  -czvf test.tar.gz  test:z for gz formate.
+tar  -xzvf test.tar.gz  :extract file
