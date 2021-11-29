@@ -1,0 +1,17 @@
+syntax :
+
+grep [pattern] [filename]
+
+---------------------------------
+global regular expreesion print
+
+process and print matching patern 
+
+use top serach specific paterns
+-------------------------------
+grep "OPTIONS" gg.txt   :will print matching statement .its case sensitive
+grep -i "options" gg.txt  :will show all options present,i is for non case sensitive
+grep -i "options" gg.txt t1.txt file.txt :multiple file can be use to serach
+grep -i "options" * :wild card search,will search all files in directory
+grep -v "options" gg.txt    :invert match.does not contain pattern lines will show.
+grep --help: for help
