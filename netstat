@@ -1,0 +1,9 @@
+syntax :
+
+netstat [flags]
+---------------------------------
+netstat stand for netrowk statestic
+use to get the status for network and statastics
+-------------------------------
+
+netstat -and:will show u all connection
