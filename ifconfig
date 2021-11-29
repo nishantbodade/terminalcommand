@@ -1,0 +1,8 @@
+Syantz :
+
+---------------------------------
+interface configaration :is use to check and view network interface
+
+-------------------------------
+ifconfig    :will show u details about connections and all details
+ifconfig eth0 down/up   :will disconnect and connect to eth0 network
