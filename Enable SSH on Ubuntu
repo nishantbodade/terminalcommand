@@ -1,0 +1,15 @@
+syntax:
+ssh user@ip -p[port if any]
+
+
+------------------------------------------
+SSH is secure shell which is use to logged in on other server 
+SSH Client must be install on servers for this (openssh-server)
+
+----------------------------------------------
+
+sudo apt-get install openssh-server :will install ssh Client on system
+ssh: will show if ssh is installed or not
+ssh localhost   :will connect to localhost
+sudo service ssh status :this will show the service is running for ssh
+exit    :will close the connection to loggen in server i.e. localhost for our case
