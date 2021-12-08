@@ -1,0 +1,16 @@
+syntax:
+scp [filename] [urusername of remote server]@[ip of remote server]:[copy path where u want to copy]
+
+ex.
+scp hello.sh codebind@192.168.34.2:/home/nb24543
+
+
+------------------------------------------
+scp stand for secure copy. cp is similer to scp
+scp is used to copy ur files from ur local to remote servers
+
+----------------------------------------------
+to copy from remote server to our server
+
+ex.
+scp  codebind@192.168.34.2:/home/nb24543/hello.sh /home/test/   :this will copt into our server from remote server
